@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.xchange{
+    color: rgb(255, 255, 62);
+    stroke:3px  black;
+}
+.headercontainer{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-image: url(images/best-cryptocurrencies-to-invest-in.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.content{
+    text-align: center;
+    padding: 1em;
+}
+.content p{
+   font-size: 1.5em;
+}
+.content p,h3{
+    padding: 0.4em;
+}
